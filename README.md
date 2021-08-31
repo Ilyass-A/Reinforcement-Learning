@@ -1,6 +1,7 @@
 # Reinforcement-Learning (RL) with OpenAI
 The key players of RL are the agent and the environment. The agent lives in the environment and interacts with it.
 
+
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/75802671/131371250-4bbf68b6-3f76-4453-b67f-51de153afc49.png">
 </p>
