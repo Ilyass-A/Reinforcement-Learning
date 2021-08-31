@@ -14,7 +14,7 @@ The key players of RL are the agent and the environment. The agent lives in the 
 
 - **Action space:** Set of all valid actions in a given environment.
   - Discrete action space: only a finite number of moves are available to the agent
-  - Continuous action space: actions are real-valued vectors
+  - Continuous action space: actions are real-valued vectors <br/>
   ➡️ This distinction has some quite-profound consequences for methods in deep RL. Some families of algorithms can only be directly applied in one case and would have to be substantially reworked for the other.
 
 - **Polices:** A rule used by an agent to decide what actions to take. One can say it is the agent’s brain and tries to maximize the reward.
