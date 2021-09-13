@@ -1,5 +1,7 @@
 # Reinforcement-Learning (RL) with OpenAI
-In this project I learnded the basics  structure of Reinforcement Learning Models.
+In this project I learned the basic structure of Reinforcement Learning Models.
+
+### Overview
 The key players of RL are the agent and the environment. The agent lives in the environment and interacts with it.
 
 <p align="center">
